@@ -15,7 +15,7 @@ Your program will be executed directly from the command line and will be provide
 arguments in the following order:
 `<user x coordinate> <user y coordinate> <shop data url>`
 
-Notice that the data file will be read from an network location (ex: https://raw.githubusercontent.com/Agilefreaks/test_oop/master/coffee_shops.csv)
+Notice that the data file will be read from an network location (ex: https://raw.githubusercontent.com/allinfra-ltd/test_oop/master/coffee_shops.csv?token=AA5HVELWEJRKDGHELZ6232DAOHE54)
 
 ## Output
 
@@ -40,4 +40,3 @@ Starbucks Seattle2,0.0645
 Starbucks Seattle,0.0861
 Starbucks SF,10.0793
 ```
-
